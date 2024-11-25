@@ -1,5 +1,6 @@
 public class PlayerInfo extends PlayerAndStudent {
-
+    
+    //OOP_4
     private int number;
 
     public int getNumber() {
